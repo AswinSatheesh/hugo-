@@ -18,12 +18,13 @@
       
       <guid>https://aswinsatheesh.github.io/hugo-/posts/file/</guid>
       <description>This is my first post
- Day # 1 - 14 JUNE 2021 - Monday
-sample one
-  Day # 2 - 14 JUNE 2021 - Monday
-sample one
-  Day # 3 - 14 JUNE 2021 - Monday
-sample two</description>
+ Day 27/4/2021 &amp;ndash;Tuesday Ubuntu is my Cupid
+sudo apt-get update sudo apt upgrade
+Date:28/4/2021 &amp;ndash;Wednesday ssh-keygen -t rsa -b 4096 -C &amp;ldquo;abc@gmail.com&amp;rdquo;
+eval &amp;ldquo;$(ssh-agent -s)&amp;rdquo;
+ssh-add ~/.ssh/id_rsa
+pbcopy &amp;lt; ~/.ssh/id_rsa.pub or cat ~/.ssh/id_rsa.pub (then copy the content)
+  </description>
     </item>
     
   </channel>
